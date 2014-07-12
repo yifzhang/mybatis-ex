@@ -1,7 +1,8 @@
 ##Introduction
 
 	This project is an extension of mybatis by using dynamic executor bound with current thread 
-	to solve 'Cannot change the ExecutorType when there is an existing transaction' for mybatis-spring project.
+	to solve 'Cannot change the ExecutorType when there is an existing transaction' 
+	for mybatis-spring project.
 
 ## Example
 
