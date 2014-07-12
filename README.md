@@ -4,7 +4,7 @@
 	to solve 'Cannot change the ExecutorType when there is an existing transaction' 
 	for mybatis-spring project.
 
-## Example
+##Example
 
 1、Simple usage as follows (No Spring integration) : 
 
