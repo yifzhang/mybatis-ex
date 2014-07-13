@@ -107,7 +107,7 @@
 	2.1、Java code: 
 	
 	/**
-	 * sqlSessionTemplate real type if ExSqlSessionTemplate
+	 * sqlSessionTemplate actual type is ExSqlSessionTemplate
 	 */
 	@Resource(name="sqlSessionTemplate")
 	private ExSqlSession sqlSessionTemplate;
